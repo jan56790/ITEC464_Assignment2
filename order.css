@@ -1,0 +1,32 @@
+h2 {
+  text-align: left;
+  color: blue;
+}
+
+#billadd{
+  text-align: left;
+  color: rgb(255, 94, 0);
+}
+
+.newaccount{
+  text-align: left;
+  color: blueviolet
+}
+
+footer {
+    background: grey;
+    position: fixed;
+    bottom:0;left:0;
+}
+
+.error-message{
+  font-size: 12px;
+  color: red;
+  margin-top:8px;
+}
+
+.success-message{
+  font-size: 12px;
+  color: green;
+  margin-top:8px;
+}
